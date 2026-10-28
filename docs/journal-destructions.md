@@ -1,0 +1,3 @@
+# Journal des destructions
+
+TODO
